@@ -6,6 +6,7 @@ namespace Cwiczenia1
     {
         static void Main(string[] args)
         {
+            //BLABLA
             Console.WriteLine("Hello World!");
         }
     }
