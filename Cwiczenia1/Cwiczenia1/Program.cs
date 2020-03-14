@@ -9,6 +9,9 @@ namespace Cwiczenia1
     {
         public static async Task Main(string[] args)
         {
+
+            Console.WriteLine("Bye World!");
+
             var client = new HttpClient();
             var result = await client.GetAsync("https://pja.edu.pl");
             //ThreadPool()
